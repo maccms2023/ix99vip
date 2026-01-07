@@ -12,14 +12,19 @@
   ],
   "sites": [
     {
-      "key": "ix99",
+
+     "key": "ix99",
       "name": "4K|官网ix99.top",
-      "type": 1,
-      "api": "https://cctv2025.baiducon.top/api.php/app/",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cctv2025.baiducon.top/api.php/app/"
     },
     {
+
   "key": "91麻豆",
       "name": "🔞91麻豆|4K",
       "type": 3,
@@ -31,14 +36,20 @@
       "ext": "https://45335lllll.ho777.top/api.php/app/"
     },
     {
-      "key": "didiz2",
+
+    "key": "didiz2",
       "name": "🔞|4K",
-      "type": 1,
-      "api": "https://4k4k4k.honr1.top/api.php/provide/vod/?ac=list",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
       "searchable": 1,
-      "filterable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://4k4k4k.honr1.top/api.php/app/"
     },
     {
+
+
       "key": "XMVideo",
       "name": "🔞熊猫视频",
       "type": 3,
