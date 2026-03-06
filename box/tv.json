@@ -12,7 +12,22 @@
   ],
   "sites": [
     {
-
+ "key": "杏资源",
+      "name": "🔞高清资源",
+      "type": 1,
+      "api": "https://json.xingba222.com/api.php/provide/vod/?ac=list",
+      "searchable": 1
+    },
+    {
+      "key": "XMVideo",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"
+    },
+    {
      "key": "ix99",
       "name": "4K|官网ix99.top",
       "type": 3,
@@ -37,6 +52,20 @@
     },
     {
 
+    "key": "x资源",
+      "name": "🔞xx资源",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1
+    },
+    {
+    "key": "se资源",
+      "name": "🔞色资源",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/?ac=list",
+      "searchable": 1
+    },
+    {
     "key": "didiz2",
       "name": "🔞|4K",
       "type": 3,
@@ -48,18 +77,6 @@
       "ext": "https://4k4k4k.honr1.top/api.php/app/"
     },
     {
-
-
-      "key": "XMVideo",
-      "name": "🔞熊猫视频",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"
-    },
-    {
-      
       "key": "香奶儿资源",
       "name": "香奶儿资源",
       "type": 0,
