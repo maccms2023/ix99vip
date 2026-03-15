@@ -12,6 +12,17 @@
   ],
   "sites": [
     {
+       "key": "ix99",
+      "name": "4K|官网ix99.top",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cctv2025.baiducon.top/api.php/app/"
+    },
+    {
  "key": "杏资源",
       "name": "🔞高清资源",
       "type": 1,
@@ -28,17 +39,7 @@
       "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"
     },
     {
-     "key": "ix99",
-      "name": "4K|官网ix99.top",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cctv2025.baiducon.top/api.php/app/"
-    },
-    {
+    
 
   "key": "91麻豆",
       "name": "🔞91麻豆|4K",
