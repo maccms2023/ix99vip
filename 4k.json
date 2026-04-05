@@ -4,7 +4,7 @@
 //  当前接口：http://dodo.3d.tc/i/39608342.jpg
 
 {
-"spider":"http://dodo.3d.tc/i/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+"spider":"https://gitee.com/tvboxx/tv/raw/master/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":[
 {"key":"ygcl","name":"💝影港┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ygcl","jar":"http://m1839732.cf.caoni.ru/4/meow.php"},
