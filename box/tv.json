@@ -12,6 +12,25 @@
   ],
   "sites": [
     {
+       "key": "4K资源",
+      "name": "4K资源",
+      "type": 1,
+      "api": "https://hehuaaluminum.com/static/poll/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+
+    "key": "4K资源2",
+      "name": "4K资源2",
+      "type": 1,
+      "api": "http://www.weisika.cn/public/static/kindeditor/php/maccms10-main/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
        "key": "ix99",
       "name": "4K|官网ix99.top",
       "type": 3,
@@ -549,7 +568,7 @@
     {
       "name": "芒果TV",
       "type": 1,
-      "url": "http://110.42.99.99:3722/lg.php/?url=",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -578,7 +597,7 @@
     {
       "name": "4K",
       "type": 1,
-      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+      "url": "https://jx.77flv.cc/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -607,7 +626,7 @@
     {
       "name": "巧技二",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "url": "https://jx.xymp4.cc/?url=",
       "ext": {
         "flag": [
           "qq",
