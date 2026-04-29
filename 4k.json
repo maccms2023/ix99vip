@@ -9,7 +9,7 @@
     {
       "name": "无",
       "type": 0,
-      "url": "http://210.245.166.84:1299/live/live.txt",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/box/live.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
