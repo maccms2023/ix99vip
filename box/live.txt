@@ -1,5 +1,4 @@
 [电信]央视直播,#genre#
-CCTV1,https://mpimg.cn/view.php/bc9f8b5e849f2dd7b2c9ebc08850af5e.mp4
 CCTV1,http://go.bkpcp.top/mg/cctv1 
 CCTV2,http://go.bkpcp.top/mg/cctv2 
 CCTV3,http://go.bkpcp.top/mg/cctv3 
