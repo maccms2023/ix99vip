@@ -18,6 +18,14 @@
   ],
 	"sites":[
  {
+
+	        "key": "ttys",
+            "name": "腾讯|4K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+        {
   "key": "机哥剧圈",
             "name": "芒果|4K",
             "type": 3,
@@ -54,13 +62,7 @@
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
  {
    
-       "key": "ttys",
-            "name": "腾讯|4K①",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
-        {
+
         "key": "csp_iqiyi",
         "name": "奇艺影视┃4K",
         "type": 3,
