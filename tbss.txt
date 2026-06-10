@@ -1,0 +1,172 @@
+
+[
+  {
+    "name": "应用",
+    "list": []
+  },
+  { "name": "软件极速下载安装",
+    "list": [
+      {
+     "name": "4K美眉",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811164536a29ae2586bda.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811165916a29aeafa16dc.png",
+        "version": "腰疼APP"
+      },
+{
+    "name": "正品影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811167326a29af3ca2d18.apk",
+        "icon": "https://zpyc.top/img/logo.png",
+        "version": "点播-直播"
+      },
+{
+
+    "name": "青苹果4K",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811168706a29afc63ce26.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811169916a29b03fc75cd.png",
+        "version": "点播-直播"
+      },
+{
+        "name": "熊猫TV",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152886a29a99899b16.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/images/xm.png",
+        "version": "腰疼APP"
+      },
+{
+      "name": "骚火TV",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811152256a29a9592beb0.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811155756a29aab7b8a47.jpeg",
+        "version": "腰疼APP"
+      },
+{
+      "name": "APP市场",
+        "url": "https://v6.gh-proxy.org/https://github.com/maccms2023/app/raw/refs/heads/main/APP%E5%B8%82%E5%9C%BA.apk",
+        "icon": "https://mpimg.cn/view.php/f50b170b3bf26175561259ba7b6148ac.png",
+        "version": "APP合集"
+      },
+{
+      "name": "TAO市场",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811156906a29ab2ac8166.apk",
+        "icon": "https://mpimg.cn/view.php/1d342c516c9075423927f36ebbfa4ccf.png",
+        "version": "市场"
+      },
+{
+      "name": "三级影视",
+        "url": "https://lz.qaiu.top/parser?url=https://wwbkk.lanzoub.com/izORI3nstcab",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811189496a29b7e59c4e0.png",
+        "version": "腰疼APP"
+      },
+{
+     "name": "永久影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811159406a29ac244ced3.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811161856a29ad19227a2.png",
+        "version": "点播-直播"
+      },
+{
+
+    "name": "爱4K",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811173336a29b1958f8c7.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811173706a29b1ba23dfd.png",
+        "version": "点播-直播"
+      },
+{
+
+   "name": "土拨鼠影视",
+        "url": "http://120.46.1.213:99/upload/kozyax_app/20260611/17811186396a29b6af4c6fe.apk",
+        "icon": "http://120.46.1.213:99/upload/images/20260611/17811188406a29b77893b24.png",
+        "version": "点播-直播"
+      },
+{
+
+        "name": "二狗助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/ergou.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/ig.png",
+        "version": "应用大全"
+      },
+{
+        "name": "欢视助手",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/huanshi.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/vw.jpg",
+        "version": "应用投送"
+      },
+{
+        "name": "电视直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dianshizhibo.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055482234538369024.jpg",
+        "version": "支持语音"
+      },
+{
+        "name": "小苹果TV",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xpgtv.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2056249290988797952.jpg",
+        "version": "内置40条线路"
+      },
+{
+        "name": "千寻直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/qianxun.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2055903997852241920.jpg",
+        "version": "支持语音换台"
+      },
+{
+        "name": "宝宝巴士儿歌",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/baobaobashi.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1865742332872704000.jpg",
+        "version": "儿歌动画"
+      },
+{
+        "name": "淘知学堂",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/taozhixuetang.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1863157714193592320.jpg",
+        "version": "儿童学习"
+      },
+{
+        "name": "小苹果音乐TV版",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
+        "version": "TV听歌"
+      },
+{
+        "name": "小白浏览器",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1879549331154513920.jpg",
+        "version": "软件管家"
+      },
+{
+        "name": "小红帽管家",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaohongmao.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2032055165548859392.jpg",
+        "version": "软件管家"
+      },
+{
+        "name": "看客",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/kanke.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2060665888508002304.jpg",
+        "version": "影视点播"
+      },
+{
+        "name": "星海体育",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xinghai.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061264286458056704.jpg",
+        "version": "足球篮球"
+      },
+{
+        "name": "大强影视",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/daqiang.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061308927965933568.jpg",
+        "version": "软件管家"
+      },
+{
+        "name": "艺华直播",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/yihua.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2047121710360080384.jpg",
+        "version": "软件管家"
+      },
+
+{
+        "name": "当贝市场",
+        "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dangbei.apk",
+        "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1933053327264808960.jpg",
+        "version": "软件管家"
+      }
+    ]
+  }
+]
