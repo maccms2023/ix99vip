@@ -51,15 +51,7 @@
       "ext": "https://cctv2025.baiducon.top/api.php/app/"
     },
    
-{"key": "应用商店",
-      "name": "🛒应用市场",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/TVBOX39/BOX/raw/master/lib/app.json"
- },
- {
+{
 "key":"drpy_js_ebay直播","name":"美女🔞直播","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/js/lib/drpy2.min.js",
      "ext":"https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/js/e直播.js","style": {"type": "rect","ratio": 1.8}},
  {
