@@ -1,7 +1,6 @@
 [电信]央视直播,#genre#
 
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
-凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 凤凰卫视,http://rihou.cc:555/tv/凤凰卫视
 凤凰资讯,http://156.238.224.170:7001/fhx.php?id=info
 凤凰香港,http://156.238.224.170:7001/fhx.php?id=hk
