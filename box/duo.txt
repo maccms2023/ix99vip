@@ -1,1 +1,1 @@
-url=http://38.207.179.154:8897
+url=https://love.lq520.cn/Botui/
