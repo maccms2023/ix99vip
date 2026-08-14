@@ -3,7 +3,7 @@
 //TG裙
 
 {
-	"spider": "http://101.200.122.188/dg4k//xiaosa0730.jar;md5;9e95fbc6f8cb362852decc87c71499c9",
+	"spider": "http://114.66.45.204:8899/spider.jar",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
  "lives": [
     {
@@ -1514,38 +1514,7 @@ config", "name": "🐲歌配置｜中心","type": 3,"jar":"https://ncstatic-file
 {"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json","cookie":""}},
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json","cookie":""}},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json","cookie":""}}
-],
-"parses": [{
- "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
 
-      "name": "小草口令4444",
-      "type": 1,
-      "url": "https://rizzo",
-      "ext": {
-        "flag": [
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    }
   ],
   "flags": [
     "youku",
