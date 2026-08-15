@@ -1,267 +1,284 @@
-//本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。[所有内容仅供学习使用，请勿用于违法用途]
-//官网ix99.vip
-//TG裙
-
+// 本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。[所有内容仅供学习使用，请勿用于违法用途]
+// 官网ix99.vip
 {
-	"spider": "http://101.200.122.188/dg4k/xiaosa0730.jar;md5;9e95fbc6f8cb362852decc87c71499c9",
-	"wallpaper": "https://深色壁纸.xxooo.cf/",
- "lives": [
+  "spider": "http://101.200.122",
+  "wallpaper": "https://xxooo.cf",
+  "lives": [
     {
       "name": "无",
       "type": 0,
-      "url": "http://210.245.166.84:1299/live/live.txt",
+      "url": "http://210.245.166",
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+      "epg": "http://112114.xyz{name}&date={date}",
+      "logo": "http://112114.xyz{name}.png"
     }
   ],
-	"sites":[
- {
-                      "key": "js豆瓣",
-"name": "豆瓣推荐|APP获取访问4can.top|小草口令526E",
-"type": 3,
-"api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
-},
-
-{"key":"豆瓣","name":"🚀豆瓣预告","type":3,"api":"csp_YGP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-  {"key": "应用商店",
+  "sites": [
+    {
+      "key": "js豆瓣",
+      "name": "豆瓣推荐|APP获取访问4can.top|小草口令526E",
+      "type": 3,
+      "api": "https://jihulab.com",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com"
+    },
+    {
+      "key": "豆瓣",
+      "name": "🚀豆瓣预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "应用商店",
       "name": "🛒应用市场",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/tu/tbss.txt"
+      "ext": "https://gh-proxy.org"
     },
-    
-
-{
-		 {
-	        "key": "ttys",
-            "name": "腾讯|4K①",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
-        {
-  "key": "机哥剧圈",
-            "name": "芒果|4K",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/mg.js"
-        },
-        
-       {
-     "key": "ttys",
-            "name": "❤腾讯|4K",
-            "type": 3,
-            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
-            "ext": "http://49.232.165.72:1234/js/qq.js"
-        },
-        {
-			      "key": "qq",
+    {
+      "key": "ttys_tx1",
+      "name": "腾讯|4K①",
+      "type": 3,
+      "api": "https://gitee.com",
+      "ext": "http://49.232.165"
+    },
+    {
+      "key": "机哥剧圈",
+      "name": "芒果|4K",
+      "type": 3,
+      "api": "https://gitee.com",
+      "ext": "http://49.232.165"
+    },
+    {
+      "key": "ttys_tx2",
+      "name": "❤腾讯|4K",
+      "type": 3,
+      "api": "https://gitee.com",
+      "ext": "http://49.232.165"
+    },
+    {
+      "key": "qq",
       "name": "❤腾云|4K",
       "playerType": 2,
       "type": 3,
-      "api": "http://114.66.45.204:8899/lib/drpy2.min.js",
-      "ext": "http://114.66.45.204:8899/lib/爱腾.js"
+      "api": "http://114.66.45",
+      "ext": "http://114.66.45"
     },
     {
       "key": "mg",
       "name": "❤果园|4K",
       "playerType": 2,
       "type": 3,
-      "api": "http://114.66.45.204:8899/lib/drpy2.min.js",
-      "ext": "http://114.66.45.204:8899/lib/爱芒.js"
+      "api": "http://114.66.45",
+      "ext": "http://114.66.45"
     },
     {
-
- "key": "映视界",
+      "key": "映视界",
       "name": "❤视界｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://bu.970088.xyz/video/映视界?platform=ysc&token=688988"
+      "type": 4,
+      "playerType": 1,
+      "api": "http://970088.xyz"
     },
     {
       "key": "木偶1",
       "name": "❤木偶｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://bu.970088.xyz/video/mogg?platform=ysc&token=688988"
+      "type": 4,
+      "playerType": 1,
+      "api": "http://970088.xyz"
     },
     {
- "key" : "橘汁",
+      "key": "橘汁",
       "name": "💖沧澜┃4K💖",
-      "type" : 3,
-      "api" : "csp_AppDrama",
-      "jar" : "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "ext" : {
-        "appName" : "橘汁",
-        "publicKey" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey" : "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv" : "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg" : "com.lxf.snzlcgtzxyx",
-        "host" : "",
-        "site" : "https://gitee.com/li-shengkai/qh/raw/master/lib/app.txt",
-        "version" : "3.0.2.1",
-        "decrypt" : "1"
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "https://gitee.com",
+        "version": "3.0.2.1",
+        "decrypt": "1"
       }
     },
-{
+    {
       "key": "JP",
       "name": "💖沧海┃4K💖",
       "type": 3,
-      "api": "http://114.66.45.204:8899/py/juzhi.py",
-       "searchable": 1,
+      "api": "http://114.66.45",
+      "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-      "key" : "苹果",
+    {
+      "key": "苹果",
       "name": "💖苹果┃4K💖",
-      "type" : 3,
-      "api" : "csp_AppDrama",
-      "jar" : "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "ext" : {
-        "appName" : "小苹果",
-        "publicKey" : "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
-        "dataKey" : "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
-        "dataIv" : "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg" : "com.juechufsh.android.xpg1",
-        "host" : "",
-        "site" : "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
-        "version" : "1.0.0.3",
-        "decrypt" : "0"
+      "type": 3,
+      "api": "csp_AppDrama",
+      "jar": "https://gitee.com",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "小苹果",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.juechufsh.android.xpg1",
+        "host": "",
+        "site": "https://myqcloud.com",
+        "version": "1.0.0.3",
+        "decrypt": "0"
       }
     },
     {
-     "key": "csp_iqiyi",
-        "name": "💖奇艺影视┃4K",
-        "type": 3,
-        "api": "csp_iqiyi",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    }, {
-        "key": "csp_mgtv",
-        "name": "💖芒果视频┃4K",
-        "type": 3,
-        "api": "csp_mgtv",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    }, {
-        "key": "csp-youku",
-        "name": "💖优酷视频┃4K",
-        "type": 3,
-        "api": "csp_youku",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+      "key": "csp_iqiyi",
+      "name": "💖奇艺影视┃4K",
+      "type": 3,
+      "api": "csp_iqiyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com"
     },
- {
-
+    {
+      "key": "csp_mgtv",
+      "name": "💖芒果视频┃4K",
+      "type": 3,
+      "api": "csp_mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com"
+    },
+    {
+      "key": "csp-youku",
+      "name": "💖优酷视频┃4K",
+      "type": 3,
+      "api": "csp_youku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com"
+    },
+    {
       "key": "yk",
       "name": "3🇨🇳真酷🇨🇳",
       "playerType": "1",
       "type": 3,
-      "api": "http://114.66.45.204:8899/lib/drpy2.min.js",
-      "ext": "http://114.66.45.204:8899/lib/爱酷.js"
+      "api": "http://114.66.45",
+      "ext": "http://114.66.45"
     },
     {
       "key": "bl",
       "name": "🇨🇳牛逼🇨🇳",
       "playerType": "2",
       "type": 3,
-      "api": "http://114.66.45.204:8899/lib/drpy2.min.js",
-      "ext": "http://114.66.45.204:8899/lib/爱哔.js"
+      "api": "http://114.66.45",
+      "ext": "http://114.66.45"
     },
     {
       "key": "qiyi",
       "name": "🇨🇳银河🇨🇳",
       "playerType": 1,
       "type": 3,
-      "api": "http://114.66.45.204:8899/lib/drpy2.min.js",
-      "ext": "http://114.66.45.204:8899/lib/爱艺.js"
+      "api": "http://114.66.45",
+      "ext": "http://114.66.45"
     },
     {
       "key": "玩偶1",
       "name": "❤玩偶｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://bu.970088.xyz/video/wogg?platform=ysc&token=688988"
+      "type": 4,
+      "playerType": 1,
+      "api": "http://970088.xyz"
     },
     {
       "key": "讴歌1",
       "name": "❤讴歌｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://bu.970088.xyz/video/ouge?platform=ysc&token=688988"
+      "type": 4,
+      "playerType": 1,
+      "api": "http://970088.xyz"
     },
     {
       "key": "虎斑1",
       "name": "❤虎斑｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://bu.970088.xyz/video/huban?platform=ysc&token=688988"
+      "type": 4,
+      "playerType": 1,
+      "api": "http://970088.xyz"
     },
     {
       "key": "CO4K",
       "name": "❤咖啡｜4K",
-      "type": 4, "playerType": 1,
-      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
-    }, 
+      "type": 4,
+      "playerType": 1,
+      "api": "http://8.134.205"
+    },
     {
-        "key": "hohaiemby",
-        "name": "❤EMBY｜4K",
-        "type": 3,
-        "api": "http://101.200.122.188/dg4k//lib/emby.py",
-        "playerType": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "changeable": 1,
-        "ext": {"server": "https://02.bestemby.com:15777","username": "Riven","password": "Wr28930884","proxy": "","thread": 0,"device_name": "My Computer","client": "DG Windows","client_version": "1.2.2","device_id": "a9f24849-83d5-4a28-8b85-a087af1402e3"}
-        
-    },   
+      "key": "hohaiemby",
+      "name": "❤EMBY｜4K",
+      "type": 3,
+      "api": "http://101.200.122",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "server": "https://bestemby.com",
+        "username": "Riven",
+        "password": "Wr28930884",
+        "proxy": "",
+        "thread": 0,
+        "device_name": "My Computer",
+        "client": "DG Windows",
+        "client_version": "1.2.2",
+        "device_id": "a9f24849-83d5-4a28-8b85-a087af1402e3"
+      }
+    },
     {
       "key": "新腾极4k",
       "name": "❤奇迹｜4K",
-      "type": 3, 
+      "type": 3,
       "playerType": 1,
-      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "api": "http://qijiyun.vip",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "http://8.148.229.212:802/4k踏天s1/lib/4k踏天TX.js"
+      "ext": "http://8.148.229"
     },
     {
-   
       "key": "极影",
       "name": "❤极影｜4K",
-      "type": 3, 
+      "type": 3,
       "playerType": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
+      "api": "https://gh-proxy.com",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+      "ext": "http://qijiyun.vip"
     },
     {
       "key": "移动",
       "name": "❤移动｜4K",
-      "type": 3, 
+      "type": 3,
       "api": "csp_Yidong4K",
       "playerType": 1,
       "searchable": 1,
@@ -270,24 +287,10 @@
       "timeout": 60
     },
     {
-      "key": "玩偶",
-      "name": "玩偶 • 4K",
-      "type": 3, "playerType": 1,
-      "api": "csp_Wogg", 
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.net",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
-        ]
-      },
-      "timeout": 60
-    },
-    {
+
+
+
+
       "key": "快映",
       "name": "快映 • 4K",
       "type": 3, "playerType": 1,
