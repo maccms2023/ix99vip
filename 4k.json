@@ -219,7 +219,127 @@
     },
  {
 
-  
+  "name": "①线｜秒播",
+      "key": "AppV7Fz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Fz"
+    },
+    {
+      "name": "②线｜秒播",
+      "key": "AppV7Xy",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xy"
+    },
+    {
+      "name": "③线｜秒播",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr"
+    },
+    {
+      "name": "④线｜秒播",
+      "key": "AppV7Xyz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xyz"
+    },
+    {
+      "name": "⑤线｜秒播",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xnm"
+    },
+    {
+      "name": "⑥线｜秒播",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "⑦线｜秒播",
+      "key": "AppV7Llq",
+      "type": 3,
+      "jar": "hhttps://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Llq"
+    },
+    {
+      "name": "⑧线｜秒播",
+      "key": "AppV7Xsz",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xsz"
+    },
+    {
+      "name": "⑨线｜秒播",
+      "key": "AppV7Xhr",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/tianjitop/llllo/refs/heads/main//jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Xhr"
+    },
+    {
+      "name": "师兄｜秒播",
+      "key": "AppV7Dsx",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Dsx"
+    },
+    {
+      "name": "特狗｜秒播",
+      "key": "AppV6Tg",
+      "type": 3,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/tvbox/refs/heads/main/jars/648866e65bfbae8010145f8abcc12f5f.png",
+      "api": "csp_AppV6Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV6Tg"
+    },
+    {
 
 
       "key": "热播",
