@@ -15,6 +15,23 @@
 "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
 },
 	   {
+		      "key": "qq11",
+      "name": "🔥腾腾|4K①",
+      "playerType": 2,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/qq.js"
+    },
+    {
+
+"key": "mg1",
+      "name": "🔥茫茫|4K②",
+      "playerType": 2,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/mg.js"
+    },
+    {
   "key": "天1天",
       "name": "天天┆蓝光",
       "type": 3,
