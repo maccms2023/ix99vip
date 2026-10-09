@@ -1,0 +1,7 @@
+{
+  "backends": [
+    "https://backend1.example.com/tv/index.html",
+    "https://backend2.example.com/tv/index.html",
+    "https://backend3.example.com/tv/index.html"
+  ]
+}
