@@ -1,7 +1,7 @@
 {
   "version": 1,
   "api": [
-    "http://aytm.huwwu.com.cn/src/Parsers/backend/api/",
+    "https://yzf.xingyig.cn/user/assets/backend/api/",
     "http://aytm.huwwu.com.cn/src/Parsers/backend/api/"
   ]
 }
