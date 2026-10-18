@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "api": [
+    "http://aytm.huwwu.com.cn/src/Parsers/backend/api/",
+    "http://aytm.huwwu.com.cn/src/Parsers/backend/api/"
+  ]
+}
