@@ -108,6 +108,45 @@
     },
 
     {
+
+ "key": "哔哩",
+      "name": "官┆哔哩视频┆4K",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+    {
+"key": "奇艺",
+      "name": "官┆奇异视频┆4K",
+      "type": 3,
+      "api": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/爱奇艺.js"
+    },
+    {
+
+ "key": "优酷",
+      "name": "官┆优酷视频┆4K",
+      "type": 3,
+      "api": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/优酷视频.js"
+    },
+    {
+ "key": "腾讯",
+      "name": "官┆腾讯视频┆4K",
+      "type": 3,
+      "api": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/腾讯视频.js"
+    },
+    {
+ "key": "芒果",
+      "name": "官┆芒果视频┆4K",
+      "type": 3,
+      "api": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/芒果视频.js"
+    },
+    {
+		
       "key" : "独播库",
       "name" : "播库┃App",
       "type" : 3,
