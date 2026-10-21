@@ -95,6 +95,14 @@
       "ext": "https://www.vip1949.com/"
     },
     {
+       "key": "WexAiWenCai",
+            "name": "💥文才┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiWenCaiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, {
       "key": "哔哩",
       "name": "官┆哔哩视频┆4K",
       "playerType": "1",
