@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/maccms2023/tvbox@refs/heads/main/xiaosa.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/youhunwl/TVBox/master/jar/潇洒.jar",
   "wallpaper": "",
   "logo": "",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
