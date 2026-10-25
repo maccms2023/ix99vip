@@ -2729,43 +2729,6 @@
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/zp/tvlive.txt"
     }
   ],
-  "parses": [
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-   
-      "name": "芒果",
-      "type": 0,
-      "url": "https://json.xophp.com/api/?key=be3c375df25942b49cc17e7f25134104&url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    }
-  ],
   "ijk": [
     {
       "group": "软解码",
