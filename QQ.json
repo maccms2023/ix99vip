@@ -12,6 +12,42 @@
       "ext": "https://app.69mini.com/js/qq.js"
     },
     {
+          "key": "bl",
+      "name": "哔哩┆4K",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+    {
+            "key": "csp_iqiyi",
+        "name": "奇艺┆4K",
+        "type": 3,
+        "api": "csp_iqiyi",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    }, {
+        "key": "csp_mgtv",
+        "name": "果果┆4K",
+        "type": 3,
+        "api": "csp_mgtv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    }, {
+        "key": "csp-youku",
+        "name": "优酷┆4K",
+        "type": 3,
+        "api": "csp_youku",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },
+ {
       
          "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "橘子🍊4K",
