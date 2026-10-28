@@ -1,5 +1,5 @@
 {
-    "spider": "",
+    "spider": "https://gh-proxy.org/https:/raw.githubusercontent.com/maccms2023/ix99vip/refs/heads/main/gzjar.jar",
     "wallpaper": "https://www.loliapi.com/acg/",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -48,7 +48,40 @@
         "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
     },
  {
-      
+          "key" : "csp_Gz360",
+      "name" : "瓜子影视", 
+      "type" : 3,  
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "api" : "csp_Gz360"  
+    },
+     {
+         "key": "lanying",
+            "name": "蓝鹰影视",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+             "jar":"./spider.jar",
+            "ext": {
+                "url": "http://103.217.190.91:5566",
+                "dataKey": "hagYExMdMkeWfemK",
+                "dataIv": "hagYExMdMkeWfemK",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "qimao",
+            "name": "七猫短剧",
+            "type": 3,
+            "api": "csp_ShortQimao",
+            "genre": "shortdrama", "jar":"./spider.jar"
+        },
+
+ 
+    {
+            
          "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "橘子🍊4K",
       "key": "线路14",
