@@ -73,13 +73,6 @@
             }
         },
         {
-            "key": "qimao",
-            "name": "七猫短剧",
-            "type": 3,
-            "api": "csp_ShortQimao",
-            "genre": "shortdrama", "jar":"./spider.jar"
-        },
-    {  
          "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "橘子🍊4K",
       "key": "线路14",
@@ -90,9 +83,6 @@
       "quickSearch": 1,
       "changeable": 1
     }, 
-
-
-
 {
             "key": "push_agent",
             "name": "推送",
