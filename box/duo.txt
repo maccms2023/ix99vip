@@ -1,1 +1,1 @@
-url=http://iptv.060718.xyz/mguo/
+url=http://59.110.220.29:1234
