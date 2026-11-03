@@ -2,6 +2,7 @@
   "version": 1,
   "api": [
     "https://cjku.drvsw.com/app/api/",
+     "https://zbcku.com/baoyu/images/api/",
     "https://wzhsj.com/baoyu/images/api/"
   ]
 }
