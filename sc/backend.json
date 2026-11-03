@@ -1,7 +1,7 @@
 {
   "version": 1,
   "api": [
-    "https://cjku.drvsw.com/app/",
-    "https://cjku.drvsw.com/app/"
+    "https://cjku.drvsw.com/app/api/",
+    "https://cjku.drvsw.com/app/api/"
   ]
 }
